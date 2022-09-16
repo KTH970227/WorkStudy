@@ -22,7 +22,7 @@ int main(){
     Temp = 11;
     Temp = 50; //11를 쫒아내고 50을 넣는다. 
 
-    int eggz = 14;
+    int eggz = 13;
     int fizz = 10;
 
     printf("%d : %d\n", eggz, fizz); //%d : 서식문자 
