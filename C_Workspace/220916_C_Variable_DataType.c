@@ -54,7 +54,7 @@ int main(){
 
 
     //3.문자형(Character)
-    //char             2Byte   서식문자(%s, %d)
+    //char             1Byte   서식문자(%s, %d)
     //unsigned char    1Byte   서식문자(%d) //0~255 값을 저장하는 용도
 
     //ex)문자 변수 선언 예시
