@@ -3,7 +3,7 @@
 #include <string.h> 
 #include "C_45_constants.h"
 
-//ÀÚ·áÇü ÇÑÁ¤ÀÚµé 
+//ìë£Œí˜•í•œì •ì
 //	-const
 //	-volatile
 //	-restrict
