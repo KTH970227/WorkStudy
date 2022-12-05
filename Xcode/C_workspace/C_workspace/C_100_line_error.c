@@ -3,7 +3,7 @@
 
 #include "C_100_DifferentFile.h"
 
-//�̸� ���ǵ� ��ũ�ε�, #line, #error
+//¹Ì¸® Á¤ÀÇµÈ ¸ÅÅ©·Îµé, #line, #error
 
 void different_function();
 
@@ -18,4 +18,7 @@ int main()
 	different_function();
 
 	different_func_in_different_file();
+	
+	return 0;
+
 }
